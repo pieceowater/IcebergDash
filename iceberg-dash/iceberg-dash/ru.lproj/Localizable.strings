@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  iceberg-dash
+
+  Created by yury mid on 07.11.2022.
+  
+*/
+
+//Global
+"Back" = "Назад";
+"Search" = "Поиск";
+"Save" = "Сохранить";
+"Edit" = "Редактировать";
+"Delete" = "Удалить";
+"Open" = "Окрыть";
+"Cancel" = "Отменить";
+"Copy" = "Скопировать";
+"Copied" = "Скопировано в буфер обмена";
+"Send image" = "Отправить";
+"Select date & time" = "Выберите дату и время";
+"Date selector" = "Выбор даты";
+"Image" = "Изображение";
+"Comment" = "Комментарий";
+"Default" = "По умолчанию";
+"Log out" = "Выйти";
+"Are you sure?" = "Вы уверены?";
+"Sort" = "Сортировать";
+"Take a photo" = "Сделать фото";
+"Choose from gallery" = "Выбрать из галереи";
+"Column" = "Кол.";
+"Columns" = "Кол.";
+"Photo" = "Фото";
+"Leave a comment" = "Оставьте комментарий";
+
+//Filters/Sort
+"Creation date" = "Дата создания";
+"Delivery date" = "Дата доставки";
+"Deadline" = "Крайний срок";
+"Ascending" = "По возрастанию";
+"Descending" = "По убыванию";
+
+//Colors
+"Red" = "Красный";
+"Yellow" = "Желтый";
+"Green" = "Зеленый";
+"Orange" = "Оранжевый";
+
+//Auth
+"Sign in" = "Войти";
+"Forgot password?" = "Забыли пароль?";
+"Log in" = "Войдите в свой Аккаунт";
+"CRM-prefix" = "Префикс CRM";
+"Login" = "Логин";
+"Password" = "Пароль";
+
+//Main
+"Orders" = "Заказы";
+"Tasks" = "Задачи";
+"Map" = "Карта";
+"Messages" = "Сообщения";
+"Profile" = "Профиль";
+
+//Orders
+"Call" = "Позвонить";
+"Executing" = "На исполнении";
+"Timeline" = "История";
+"Order:" = "Заказ:";
+"Client:" = "Клиент:";
+"Address:" = "Адрес:";
+"Delivery:" = "Доставить:";
+"Product:" = "Товар:";
+"Amount:" = "Стоимость:";
+"Attachments" = "Вложения";
+"Open Map" = "Открыть карту";
+"Copy order info" = "Копировать информацию о заказе";
+"Copy order name" = "Копировать имя заказа";
+"Copy client address" = "Копировать адрес клиента";
+
+//Tasks
+"All" = "Все";
+"Executing" = "Исполнение";
+"Leading" = "Наблюдение";
+"Readed" = "Просмотрено";
+"Leaders" = "Наблюдатели";
+"Task" = "Задача";
+
+//Map
+"The map is unavailable." = "Карта недоступна";
+"At the moment, this functionality is in development!" = "На данный момент этот функционал находится в разработке!";
+
+//Messages
+"Messages & Notifications" = "Сообщения & Уведомления";
+"Notifications" = "Уведомления";
+"Chat" = "Общий чат";
+
+//Chat
+"Message" = "Введите сообщение";
+"Copy message text" = "Скопировать текст сообщения";
+"Employee chat" = "Чат сотрудников";
+
+//Notifications
+"Delete" = "Удалить";
+"Unread" = "Непрочитано";
+
+//Preferences
+"Preferences" = "Настройки";
+"App icon" = "Иконка приложения";
+"QR Settings" = "Настройки QR";
+
+//Profile
+"Edit personal info" = "Редактировать личную информацию";
+"Full name" = "ФИО";
+"Position" = "Должность";
+"Additional info" = "Дополнительная информация";
+"Phone number" = "Номер телефона";
+"Email" = "Электронная почта";
+"Credentials" = "Данные для авторизации";
+"New password" = "Новый пароль";
+"Appearance" = "Оформление";
+"Accent color" = "Акцентный цвет";
+
+//FAQ
+"F.A.Q." = "Вопросы & Ответы";
+
+//QR
+"Add Local QR" = "Добавить QR на устройстве";
+"Or just" = "Или попробуйте";
+"Scan QR" = "Сканировать QR";
+"Add QR" = "Добавить QR";
+"Local QR codes" = "QR на этом устройстве";
+"External QR codes" = "Внешние QR";
+"Enter QR content or link" = "Введите ссылку или текст QR";
+"QR is not defined" = "QR не опознан";
+"QR reached" = "QR считан";
+"Incorrect data" = "Введенные данные некорректны";
+"Enter QR title" = "Введите имя для QR";
+"Point camera at QR" = "Наведите камеру на QR";
+"QR created" = "QR создан";
